@@ -1,2 +1,2 @@
-# COUTER-APP
+# CALCULATOR
 Created with CodeSandbox
